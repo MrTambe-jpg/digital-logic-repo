@@ -2,19 +2,24 @@
 # ⚡ The Digital Logic Handbook ⚡
 ### *A Modular Component Blueprint & Guide for Sebastian Lague's Digital Logic Simulator*
 
----
-
-<video src="Chapter_01_Introduction_And_Setup/media/simulator_walkthrough.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
-
----
 
 ## 💡 Overview
 
 This repository provides detailed technical documentation, architectural breakdowns, and schematics for digital logic components built within Sebastian Lague's *Digital Logic Simulator*.
 
 Learn how computers are built bottom-up, starting from two basic primitives (`AND` and `NOT` gates) and scaling step-by-step to an 8-bit calculator, a full-fledged 8-bit CPU, and eventually 16-bit, 32-bit, and 64-bit architectures.
+
+---
+
+## 💻 Software Reference
+
+All circuits and blueprints in this repository are designed for and tested in **Digital Logic Simulator** created by **Sebastian Lague**.
+
+| Resource | Link / Reference |
+| :--- | :--- |
+| **Simulator Software** | [Digital Logic Simulator on itch.io](https://sebastian.itch.io/digital-logic-sim) / [GitHub Repository](https://github.com/SebLague/Digital-Logic-Sim) |
+| **Video Breakdown** | [*Exploring How Computers Work* by Sebastian Lague](https://www.youtube.com/watch?v=QZwneEb6GVI) |
+| **RAM & CPU Video** | [*Building a Computer in Digital Logic Sim*](https://www.youtube.com/watch?v=HGkuRp5HfH8) |
 
 ---
 
