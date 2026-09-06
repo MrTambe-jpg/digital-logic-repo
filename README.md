@@ -34,7 +34,7 @@ All circuits and blueprints in this repository are designed for and tested in **
 ## 📚 Master Index / Table of Contents
 
 ### 🟢 Chapter 01: Introduction & Simulator Mechanics
-* [1.0 Welcome & Architecture Roadmap](Chapter_01_Introduction_And_Setup/1.0_Welcome_And_Course_Overview.md)
+* [1.0 Welcome & Architecture Roadmap](Chapter_01_Introduction_And_Setup/1.0_Welcome_&_Architecture_Roadmap.md)
 * [1.1 Sebastian Lague Simulator Mechanics Guide](Chapter_01_Introduction_And_Setup/1.1_Sebastian_Lague_Simulator_Guide.md)
 
 ---
@@ -43,12 +43,12 @@ All circuits and blueprints in this repository are designed for and tested in **
 > *Building all fundamental logic operations strictly from starting AND and NOT primitives.*
 
 * **[2.1 NOT Gate (Inverter)](Chapter_02_Primitive_Logic_Gates/2.1_NOT_Gate(Inverter).md/)** — *Signal inversion*
-* **[2.2 AND Gate](Chapter_02_Primitive_logic_Gates/2.2_AND_Gate/)** — *Conjunction logic*
-* **[2.3 OR Gate](Chapter_02_Primitive_logic_Gates/2.3_OR_Gate/)**
-* **[2.4 NAND Gate](Chapter_02_Primitive_logic_Gates/2.4_NAND_Gate/)** — *Universal logic gate*
-* **[2.5 NOR Gate](Chapter_02_Primitive_logic_Gates/2.5_NOR_Gate/)** — *Inverted OR gate*
-* **[2.6 XOR Gate (Exclusive OR)](Chapter_02_Primitive_logic_Gates/2.6_XOR_Gate/)** — *Difference detector & addition foundation*
-* **[2.7 XNOR Gate](Chapter_02_Primitive_logic_Gates/2.7_XNOR_Gate/)** — *Equality detector*
+* **[2.2 AND Gate](Chapter_02_Primitive_Logic_Gates/2.2_AND_Gate.md/)** — *Conjunction logic*
+* **[2.3 OR Gate](Chapter_02_Primitive_logic_Gates/2.3_OR_Gate.md/)**
+* **[2.4 NAND Gate](Chapter_02_Primitive_Logic_Gates/2.4_NAND_Gate.md/)** — *Universal logic gate*
+* **[2.5 NOR Gate](Chapter_02_Primitive_logic_Gates/2.5_NOR_Gate.md/)** — *Inverted OR gate*
+* **[2.6 XOR Gate (Exclusive OR)](Chapter_02_Primitive_Logic_Gates/2.6_XOR_Gate_(Exclusive_OR).md/)** — *Difference detector & addition foundation*
+* **[2.7 XNOR Gate](Chapter_02_Primitive_logic_Gates/2.7_XNOR_Gate.md/)** — *Equality detector*
 
 ---
 
