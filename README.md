@@ -44,11 +44,11 @@ All circuits and blueprints in this repository are designed for and tested in **
 
 * **[2.1 NOT Gate (Inverter)](Chapter_02_Primitive_Logic_Gates/2.1_NOT_Gate(Inverter).md/)** — *Signal inversion*
 * **[2.2 AND Gate](Chapter_02_Primitive_Logic_Gates/2.2_AND_Gate.md/)** — *Conjunction logic*
-* **[2.3 OR Gate](Chapter_02_Primitive_logic_Gates/2.3_OR_Gate.md/)**
+* **[2.3 OR Gate](Chapter_02_Primitive_Logic_Gates/2.3_OR_Gate.md/)**
 * **[2.4 NAND Gate](Chapter_02_Primitive_Logic_Gates/2.4_NAND_Gate.md/)** — *Universal logic gate*
-* **[2.5 NOR Gate](Chapter_02_Primitive_logic_Gates/2.5_NOR_Gate.md/)** — *Inverted OR gate*
+* **[2.5 NOR Gate](Chapter_02_Primitive_Logic_Gates/2.5_NOR_Gate.md/)** — *Inverted OR gate*
 * **[2.6 XOR Gate (Exclusive OR)](Chapter_02_Primitive_Logic_Gates/2.6_XOR_Gate_(Exclusive_OR).md/)** — *Difference detector & addition foundation*
-* **[2.7 XNOR Gate](Chapter_02_Primitive_logic_Gates/2.7_XNOR_Gate.md/)** — *Equality detector*
+* **[2.7 XNOR Gate](Chapter_02_Primitive_Logic_Gates/2.7_XNOR_Gate.md/)** — *Equality detector*
 
 ---
 
