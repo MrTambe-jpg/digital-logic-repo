@@ -42,15 +42,13 @@ All circuits and blueprints in this repository are designed for and tested in **
 ### 🟢 Chapter 02: Primitive Logic Gates
 > *Building all fundamental logic operations strictly from starting AND and NOT primitives.*
 
-* **[2.1 NOT Gate (Inverter)](Chapter_02_Primitive_Gates/2.1_NOT_Gate/)** — *Signal inversion*
-* **[2.2 AND Gate](Chapter_02_Primitive_Gates/2.2_AND_Gate/)** — *Conjunction logic*
-* **[2.3 OR Gate](Chapter_02_Primitive_Gates/2.3_OR_Gate/)**
-  * 🔹 [Method 01: Basic NAND-Derived](Chapter_02_Primitive_Gates/2.3_OR_Gate/Method_01_Basic_NAND_Derived/) — *Standard DeMorgan build*
-  * ⚡ [Method 02: Low Propagation Delay](Chapter_02_Primitive_Gates/2.3_OR_Gate/Method_02_Low_Propagation_Delay/) — *Optimized gate depth*
-* **[2.4 NAND Gate](Chapter_02_Primitive_Gates/2.4_NAND_Gate/)** — *Universal logic gate*
-* **[2.5 NOR Gate](Chapter_02_Primitive_Gates/2.5_NOR_Gate/)** — *Inverted OR gate*
-* **[2.6 XOR Gate (Exclusive OR)](Chapter_02_Primitive_Gates/2.6_XOR_Gate/)** — *Difference detector & addition foundation*
-* **[2.7 XNOR Gate](Chapter_02_Primitive_Gates/2.7_XNOR_Gate/)** — *Equality detector*
+* **[2.1 NOT Gate (Inverter)](Chapter_02_Primitive_logic_Gates/2.1_NOT_Gate(Inverter).md)/)** — *Signal inversion*
+* **[2.2 AND Gate](Chapter_02_Primitive_logic_Gates/2.2_AND_Gate/)** — *Conjunction logic*
+* **[2.3 OR Gate](Chapter_02_Primitive_logic_Gates/2.3_OR_Gate/)**
+* **[2.4 NAND Gate](Chapter_02_Primitive_logic_Gates/2.4_NAND_Gate/)** — *Universal logic gate*
+* **[2.5 NOR Gate](Chapter_02_Primitive_logic_Gates/2.5_NOR_Gate/)** — *Inverted OR gate*
+* **[2.6 XOR Gate (Exclusive OR)](Chapter_02_Primitive_logic_Gates/2.6_XOR_Gate/)** — *Difference detector & addition foundation*
+* **[2.7 XNOR Gate](Chapter_02_Primitive_logic_Gates/2.7_XNOR_Gate/)** — *Equality detector*
 
 ---
 
