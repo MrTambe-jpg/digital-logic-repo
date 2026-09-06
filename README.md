@@ -42,7 +42,7 @@ All circuits and blueprints in this repository are designed for and tested in **
 ### 🟢 Chapter 02: Primitive Logic Gates
 > *Building all fundamental logic operations strictly from starting AND and NOT primitives.*
 
-* **[2.1 NOT Gate (Inverter)](Chapter_02_Primitive_logic_Gates/2.1_NOT_Gate(Inverter).md)/)** — *Signal inversion*
+* **[2.1 NOT Gate (Inverter)](Chapter_02_Primitive_Logic_Gates/2.1_NOT_Gate(Inverter).md/)** — *Signal inversion*
 * **[2.2 AND Gate](Chapter_02_Primitive_logic_Gates/2.2_AND_Gate/)** — *Conjunction logic*
 * **[2.3 OR Gate](Chapter_02_Primitive_logic_Gates/2.3_OR_Gate/)**
 * **[2.4 NAND Gate](Chapter_02_Primitive_logic_Gates/2.4_NAND_Gate/)** — *Universal logic gate*
